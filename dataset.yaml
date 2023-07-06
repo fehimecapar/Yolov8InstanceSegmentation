@@ -1,0 +1,6 @@
+train: /Users/macbook/Desktop/project/train
+val: /Users/macbook/Desktop/project/test
+
+nc: 3
+
+names: ['airship', 'ship', 'truck']
